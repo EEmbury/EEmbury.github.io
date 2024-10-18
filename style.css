@@ -1,3 +1,12 @@
-#testheader {
-  background: #1abc9c;
+#wrapperHeader{
+    position: relative;
+    background-image:url(photo.png);
+}
+
+#header{
+    left: 50%;
+    margin-left: -500px;
+    background:url(photo.png) no-repeat;
+    width:1000px;
+    height:200px;
 }
